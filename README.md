@@ -1,2 +1,2 @@
-# Java-Switch-statement
-I have done a Java Switch statement 
+# NPTEL Certification
+I have completed  NPTEL certification course
